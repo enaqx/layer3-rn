@@ -1,0 +1,26 @@
+# Ignore build artifacts and dependencies
+node_modules
+dist
+build
+.expo
+.expo-shared
+
+# Ignore iOS build files
+ios/Pods
+ios/build
+*.xcworkspace
+*.xcodeproj
+
+# Ignore Android build files
+android/app/build
+android/build
+*.gradle
+
+# Ignore generated files
+*.log
+.DS_Store
+
+# Ignore package lock files
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
