@@ -48,7 +48,6 @@ A React Native mobile application showcasing the top users on Layer3's leaderboa
   ```
 
 - **Physical Device (iOS or Android)**
-
   - Install the Expo Go app from the App Store or Play Store
   - Connect your computer and phone to the same Wi-Fi network
   - Run the following command and scan the QR code with the Expo Go app
